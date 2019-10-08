@@ -5,7 +5,7 @@
     <classes>
       <class name="com.swapi.test.TC02_RestAPIDemo_POST">
         <methods>
-          <include name="restAPIDemoQA_Post"/>
+          <include name="restAPIDemoQA_POST"/>
         </methods>
       </class> <!-- com.swapi.test.TC02_RestAPIDemo_POST -->
     </classes>
